@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes Minnesota’s labor market in 2024 to evaluate how wages, job vacancies, unemployment, and workforce turnover vary across regions and industries. The analysis focuses on whether current labor market conditions support financial stability for workers and where mismatches between labor supply, demand, and cost of living are most pronounced.
+This project analyzes Minnesota’s labor market in 2024 to evaluate how wages, job vacancies, unemployment, and workforce turnover vary across regions and industries. The analysis focuses on whether current labor market conditions support financial stability for workers and where mismatches between labor supply, labor demand, and cost of living are most pronounced.
 
 The goal of the project is to support workforce planners, regional development boards, policymakers, and employers by identifying where targeted wage adjustments, training investments, and retention strategies may have the greatest impact.
 
@@ -70,6 +70,14 @@ All metrics were evaluated at both the statewide and regional level to surface g
 
 ---
 
+## Files
+
+- [Analysis Workbook (Excel)](data/Group1_Analysis.xlsx)
+- [Final Written Report (PDF)](report/Minnesota_Labor_Market_Analysis_2024_Report.pdf)
+- [Presentation Slides (PDF)](report/2024_Job_Market_Analysis_project.pdf)
+
+---
+
 ## Recommendations
 
 Based on the findings, several actions could help reduce labor market strain:
@@ -81,26 +89,14 @@ Based on the findings, several actions could help reduce labor market strain:
 
 ---
 
-## Repository Contents
+## Tools & Methods
 
-/data
-Group1_Analysis.xlsx # Cleaned and working analysis file
+- Excel (data cleaning, metric construction, analysis)
+- Public labor market data (DEED, BLS)
+- Descriptive and comparative analysis
+- Data visualization and policy-oriented reporting
 
-/report
-Minnesota_Labor_Market_Analysis_2024_Report.pdf
-Minnesota_Labor_Market_Analysis_2024_Slides.pdf
-
-README.md
-
-
-
----
-
-## Project Team
-
-- **Kate Ellestad** – Project Manager, Business Intelligence Analyst  
-- **Ramla Mohamud** – Visualization Lead  
-- **Jahne Brevard** – Data Engineer
+The Excel workbook contains cleaned datasets and working analysis tables used to support the findings and is intended for review rather than automated reproduction.
 
 ---
 
@@ -108,4 +104,4 @@ README.md
 
 This project was completed as part of a Business Intelligence and Analytics course and reflects an end-to-end analytical workflow, from problem definition and data integration to insight development and actionable recommendations.
 
-
+While the project originated in a group course setting, the analysis, data preparation, and documentation presented in this repository reflect my individual work.
