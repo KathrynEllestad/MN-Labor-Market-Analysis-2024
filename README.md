@@ -74,7 +74,7 @@ All metrics were evaluated at both the statewide and regional level to surface g
 
 - [Analysis Workbook (Excel)](data/Group1_Analysis.xlsx)
 - [Final Written Report (PDF)](report/Minnesota_Labor_Market_Analysis_2024_Report.pdf)
-- [Presentation Slides (PDF)](report/2024_Job_Market_Analysis_project.pdf)
+- [Presentation Slides (PDF)](report/2024_Job_Market_Analysis_Project.pdf)
 
 ---
 
